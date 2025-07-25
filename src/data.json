@@ -1,59 +1,59 @@
 {
   "theme": {
-    "color": "#aa9425",
+    "color": "#010125",
     "text": "white"
   },
   "nav": {
-    "businessname": "The Cozy Griddle",
-    "businessname2": "Breakfast & Lunch"
+    "businessname": "Smoke Bayou",
+    "businessname2": "BBQ & Soul Food"
   },
   "welcome": {
-    "businessname": "The Cozy Griddle",
-    "description": "At The Cozy Griddle, warm and comforting breakfast and lunch favorites are served all day in a relaxed, inviting atmosphere on Coursey Boulevard.",
-    "description2": "Enjoy signature griddle cakes, build‑your‑own omelets, breakfast bowls, shrimp & grits, and hearty steak croissant platters. Don’t miss our red beans & rice lunch special on Mondays!",
-    "description3": "Everything is cooked to order with fresh ingredients, generous portions, and a friendly neighborhood vibe.",
-    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/lRvHaiEHSPCzrx_Iq7_3zg/o.jpg",
-    "image2": "https://s3-media0.fl.yelpcdn.com/bphoto/m8MpxCAXYEl3gKt75cfErw/o.jpg",
-    "image3": "https://s3-media0.fl.yelpcdn.com/bphoto/DyyLSiJ7q4ftUaWmCjN0wA/o.jpg"
+    "businessname": "Smoke Bayou",
+    "description": "At Smoke Bayou, we serve slow-smoked BBQ classics infused with Louisiana soul—ribs, brisket, pulled pork, sausage and chicken, all cooked to perfection.",
+    "description2": "Try our loaded nachos, tender meat platters, and creative burritos. Everything is smoked in-house and paired with soulful sides like mac and cheese, collards, and yams.",
+    "description3": "Come hungry. Leave full and happy. Always cooked fresh, always full of flavor.",
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/wUuQ_tbDSMEZOfUGiEA1ng/o.jpg",
+    "image2": "https://s3-media0.fl.yelpcdn.com/bphoto/DDB44O4yAsiWJPjJ5lUnZw/o.jpg",
+    "image3": "https://s3-media0.fl.yelpcdn.com/bphoto/Q70_8_BDmBvyCYl2_2Gupw/o.jpg"
   },
   "aboutussection": {
-    "businessname": "The Cozy Griddle",
-    "aboutus": "Founded by Baton Rouge native Tarick Johnson, drawing on family’s catering legacy (SYI), The Cozy Griddle offers a modern breakfast concept rooted in comforting traditions.",
-    "aboutus2": "Located in a bright, butter‑yellow space inspired by his grandmother’s favorite color, the menu features all‑day breakfast, biscuits, pancakes, omelets and weekday lunch specials like red beans & rice.",
-    "aboutusimage": "https://s3-media0.fl.yelpcdn.com/bphoto/_mApXrvs0mGVGM5vPZkjtw/o.jpg",
-    "imageinsidestore": "https://s3-media0.fl.yelpcdn.com/bphoto/_mApXrvs0mGVGM5vPZkjtw/o.jpg",
+    "businessname": "Smoke Bayou",
+    "aboutus": "Smoke Bayou is a locally-owned Baton Rouge BBQ spot known for bold bayou flavor and hearty smoked meats, served up with soul food sides.",
+    "aboutus2": "Every dish—from ribs to brisket to banana pudding—is made fresh, with care, and steeped in Southern tradition.",
+    "aboutusimage": "https://s3-media0.fl.yelpcdn.com/bphoto/ckSR5fOYACboL6Q0aKOHDA/o.jpg",
+    "imageinsidestore": "https://s3-media0.fl.yelpcdn.com/bphoto/ZT20PMTjt7WwA1g3J3tS5g/o.jpg",
     "socmed": {
-      "instagram": "https://www.instagram.com/the_cozygriddle/?hl=en",
-      "facebook": "https://www.facebook.com/profile.php?id=61576131334437#",
-      "doordash": "",
+      "instagram": "https://www.instagram.com/smokebayou/?hl=en",
+      "facebook": "https://www.facebook.com/p/Smoke-bayou-100063737854696/",
+      "doordash": "https://www.doordash.com/en/store/smoke-bayou-baton-rouge-25994820/70783953/?srsltid=AfmBOoqRFjPCcVhOud3SNLijHThasyZwP-bjwhVbcIyYN4CHIBVov0Lh",
       "ubereats": ""
     }
   },
   "menu": {
-    "backgroundimage": "https://res-menu.com/images/menu-bg.jpg"
+    "backgroundimage": "https://s3-media0.fl.yelpcdn.com/bphoto/G5Ppq8PUPjrHcFVUyyeuVw/o.jpg"
   },
   "gallery": {
-    "image1": "https://s3-media0.fl.yelpcdn.com/bphoto/RIbUXGKEQkGpBnvKyuikTg/o.jpg",
-    "image2": "https://s3-media0.fl.yelpcdn.com/bphoto/6zbGs12iYewkMVCfMOwwXg/o.jpg",
-    "image3": "https://s3-media0.fl.yelpcdn.com/bphoto/Gz9vaT2S8yQ3-NIdyrcgLQ/o.jpg"
+    "image1": "https://s3-media0.fl.yelpcdn.com/bphoto/Kz1FWDI6qADJkKYJsLe8rw/o.jpg",
+    "image2": "https://s3-media0.fl.yelpcdn.com/bphoto/vTGjk9hG6pqShhPZu-9cNA/o.jpg",
+    "image3": "https://s3-media0.fl.yelpcdn.com/bphoto/nlYCXthJbLi6_xiEphhWNQ/o.jpg"
   },
   "contact": {
-    "backgroundimage": "https://images.unsplash.com/photo-1528699633788-424224dc89b5?q=80&w=733&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "phone": "+1 (225) 317-3122",
+    "backgroundimage": "https://s3-media0.fl.yelpcdn.com/bphoto/IozbvqkQv4DXBGDQcVkCiw/o.jpg",
+    "phone": "+1 (225) 335-7208",
     "email": "",
     "hours": {
-      "mon": "7:00 AM – 2:00 PM",
-      "tue": "7:00 AM – 2:00 PM",
-      "wed": "7:00 AM – 2:00 PM",
-      "thu": "7:00 AM – 2:00 PM",
-      "fri": "7:00 AM – 2:00 PM",
-      "sat": "8:00 AM – 2:00 PM",
+      "mon": "11:00 AM – 6:00 PM",
+      "tue": "11:00 AM – 6:00 PM",
+      "wed": "11:00 AM – 6:00 PM",
+      "thu": "11:00 AM – 6:00 PM",
+      "fri": "11:00 AM – 6:00 PM",
+      "sat": "12:00 PM – 6:00 PM",
       "sun": "Closed"
     },
-    "address": "11445 Coursey Blvd, Suite C, Baton Rouge, LA 70816",
-    "businessimage": "https://s3-media0.fl.yelpcdn.com/bphoto/gUBSH2sGG6Jlcq4CcXLHOQ/o.jpg"
+    "address": "10655 Coursey Blvd Baton Rouge, LA 70816",
+    "businessimage": "https://s3-media0.fl.yelpcdn.com/bphoto/xfVhb8zvQdE379BO0x3XeA/o.jpg"
   },
   "footer": {
-    "businessname": "The Cozy Griddle"
+    "businessname": "Smoke Bayou"
   }
 }
